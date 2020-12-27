@@ -2,32 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SocialBooks | Libros con temática social</title>
-    <link>http://social-books.github.io/</link>
+    <link>https://social-books.github.io/</link>
     <description>Recent content on SocialBooks | Libros con temática social</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>es-ES</language>
     <copyright>Copyright By [SocialBooks](https://twitter.com/social_books_)</copyright>
     <lastBuildDate>Fri, 25 Dec 2020 10:00:00 +0200</lastBuildDate>
     
-	<atom:link href="http://social-books.github.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://social-books.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>¡Novedades! 2.0</title>
-      <link>http://social-books.github.io/blog/post-1/</link>
+      <link>https://social-books.github.io/blog/post-1/</link>
       <pubDate>Fri, 25 Dec 2020 10:00:00 +0200</pubDate>
       
-      <guid>http://social-books.github.io/blog/post-1/</guid>
+      <guid>https://social-books.github.io/blog/post-1/</guid>
       <description>¡Hola SocialBookers!
 Estamos ultimando las dedicatorias y por consiguiente los paquetes para realizar los envíos para todas las personas que sois de fuera de Málaga, debido a los retrasos ajenos a nuestra voluntad, vamos a intentar que en la medida que esté en nuestra mano los paquetes puedan llegar antes de reyes, vamos a enviarlos certificados para evitar problemas en el envío</description>
     </item>
     
     <item>
       <title>¡Novedades!</title>
-      <link>http://social-books.github.io/blog/post-2/</link>
+      <link>https://social-books.github.io/blog/post-2/</link>
       <pubDate>Sun, 20 Dec 2020 10:00:00 +0200</pubDate>
       
-      <guid>http://social-books.github.io/blog/post-2/</guid>
+      <guid>https://social-books.github.io/blog/post-2/</guid>
       <description>¡Hola Mecenas!
 Hemos estado algo perdidos, pero os traemos buenas noticias.
 En primer lugar, pediros disculpas por el retraso, hemos tenido varios inconvenientes en la maquetación e impresión del libro, son cosas ajenas a nuestra voluntad, aunque por ello os reiteramos nuestras disculpas.</description>
@@ -35,73 +35,73 @@ En primer lugar, pediros disculpas por el retraso, hemos tenido varios inconveni
     
     <item>
       <title>Apple Watch</title>
-      <link>http://social-books.github.io/products/product-1/</link>
+      <link>https://social-books.github.io/products/product-1/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-1/</guid>
+      <guid>https://social-books.github.io/products/product-1/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>Galaxy Watch</title>
-      <link>http://social-books.github.io/products/product-2/</link>
+      <link>https://social-books.github.io/products/product-2/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-2/</guid>
+      <guid>https://social-books.github.io/products/product-2/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>Motorola Watch</title>
-      <link>http://social-books.github.io/products/product-4/</link>
+      <link>https://social-books.github.io/products/product-4/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-4/</guid>
+      <guid>https://social-books.github.io/products/product-4/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>OnePlus Watch</title>
-      <link>http://social-books.github.io/products/product-7/</link>
+      <link>https://social-books.github.io/products/product-7/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-7/</guid>
+      <guid>https://social-books.github.io/products/product-7/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>Oppo Watch</title>
-      <link>http://social-books.github.io/products/product-8/</link>
+      <link>https://social-books.github.io/products/product-8/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-8/</guid>
+      <guid>https://social-books.github.io/products/product-8/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>Realme Watch</title>
-      <link>http://social-books.github.io/products/product-6/</link>
+      <link>https://social-books.github.io/products/product-6/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-6/</guid>
+      <guid>https://social-books.github.io/products/product-6/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>Redmi Watch</title>
-      <link>http://social-books.github.io/products/product-5/</link>
+      <link>https://social-books.github.io/products/product-5/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-5/</guid>
+      <guid>https://social-books.github.io/products/product-5/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
     <item>
       <title>Xiaomi Watch</title>
-      <link>http://social-books.github.io/products/product-3/</link>
+      <link>https://social-books.github.io/products/product-3/</link>
       <pubDate>Thu, 17 Oct 2019 11:22:16 +0600</pubDate>
       
-      <guid>http://social-books.github.io/products/product-3/</guid>
+      <guid>https://social-books.github.io/products/product-3/</guid>
       <description>Apple Watch is a line of smartwatches produced by Apple Inc. It incorporates fitness tracking and health-oriented capabilities with integration with iOS and other Apple products and services.</description>
     </item>
     
