@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Últimos posts on SocialBooks | Libros con temática social</title>
+    <link>http://social-books.github.io/blog/</link>
+    <description>Recent content in Últimos posts on SocialBooks | Libros con temática social</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es-ES</language>
+    <copyright>Copyright By [SocialBooks](https://twitter.com/social_books_)</copyright>
+    <lastBuildDate>Fri, 25 Dec 2020 10:00:00 +0200</lastBuildDate>
+    
+	<atom:link href="http://social-books.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>¡Novedades! 2.0</title>
+      <link>http://social-books.github.io/blog/post-1/</link>
+      <pubDate>Fri, 25 Dec 2020 10:00:00 +0200</pubDate>
+      
+      <guid>http://social-books.github.io/blog/post-1/</guid>
+      <description>¡Hola SocialBookers!
+Estamos ultimando las dedicatorias y por consiguiente los paquetes para realizar los envíos para todas las personas que sois de fuera de Málaga, debido a los retrasos ajenos a nuestra voluntad, vamos a intentar que en la medida que esté en nuestra mano los paquetes puedan llegar antes de reyes, vamos a enviarlos certificados para evitar problemas en el envío</description>
+    </item>
+    
+    <item>
+      <title>¡Novedades!</title>
+      <link>http://social-books.github.io/blog/post-2/</link>
+      <pubDate>Sun, 20 Dec 2020 10:00:00 +0200</pubDate>
+      
+      <guid>http://social-books.github.io/blog/post-2/</guid>
+      <description>¡Hola Mecenas!
+Hemos estado algo perdidos, pero os traemos buenas noticias.
+En primer lugar, pediros disculpas por el retraso, hemos tenido varios inconvenientes en la maquetación e impresión del libro, son cosas ajenas a nuestra voluntad, aunque por ello os reiteramos nuestras disculpas.</description>
+    </item>
+    
+  </channel>
+</rss>
